@@ -1,0 +1,26 @@
+{
+  "name": "hello1",
+  "version": "1.0.0",
+  "description": "first test json package",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unshabbir/hello-world.git"
+  },
+  "keywords": [
+    "hello1",
+    "test1"
+  ],
+  "author": "unshabbir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unshabbir/hello-world/issues"
+  },
+  "homepage": "https://github.com/unshabbir/hello-world#readme",
+  "devDependencies": {
+    "@percy/script": "^1.0.0"
+  }
+}
